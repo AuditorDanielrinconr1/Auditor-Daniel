@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daniel Rincón Romero - Financial & SARLAFT Auditor</title>
+</head>
+<body>
+    <header>
+        <h1>Daniel Rincón Romero</h1>
+        <h2>Financial & SARLAFT Auditor</h2>
+    </header>
+
+    <section>
+        <h3>About Me</h3>
+        <p>
+            I am a dedicated financial and SARLAFT auditor with a strong background in the accounting market. As a professional, I emphasize integrity and meticulous attention to detail. I provide my services as a Certified Public Accountant, following international auditing standards (NIA) while practicing at the pinnacle of financial, accounting, and tax best practices.
+        </p>
+        <p>
+            My commitment is centered on fostering business development by delivering high-quality services that add value to our clients. I am proud to have the trust of numerous clients for whom I provide professional services, and I have established strategic partnerships with companies to address a wide range of legal, tax, financial, and accounting issues.
+        </p>
+    </section>
+
+    <section>
+        <h3>Services</h3>
+        <p>
+            I offer consulting services to companies in various sectors, including but not limited to:
+        </p>
+        <ul>
+            <li>Consulting for civil engineering</li>
+            <li>Cloud services</li>
+            <li>Road construction</li>
+            <li>Telecommunications companies</li>
+            <li>Cargo and passenger transportation</li>
+            <li>Agribusiness</li>
+            <li>Automotive parts trading</li>
+            <li>Foundations and associations</li>
+            <li>Bars and restaurants</li>
+            <li>Travel agencies</li>
+            <li>Franchises</li>
+            <li>Legal services</li>
+            <!-- Add any other sectors you serve -->
+        </ul>
+    </section>
+
+    <section>
+        <h3>Contact Information</h3>
+        <p>
+            Email: <a href="mailto:drrasesorias@gmail.com">drrasesorias@gmail.com</a> or <a href="mailto:danielrinconc4@gmail.com">danielrinconc4@gmail.com</a><br>
+            Phone: <a href="tel:+3195044731">319-504-4731</a>
+        </p>
+    </section>
+</body>
+</html>
